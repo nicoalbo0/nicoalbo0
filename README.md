@@ -9,11 +9,6 @@ The thread that connects most of what I build is *epistemic honesty in machine l
 - **Explainable AI for large language models.** Faithfulness evaluation of feature attributions, with an emphasis on the identifiability problems that arise when perturbation-based explainers and perturbation-based evaluators are confounded by construction.
 - **Generative AI in production.** End-to-end LLM and RAG pipelines, agentic architectures, and responsible-AI practice aligned with the European Union Artificial Intelligence Act.
 - **Dynamical-systems methods for sequence models.** State-space and attractor-geometry perspectives on modern architectures, carried over from my reservoir-computing work.
-
-[My ORCID: 0000-0003-1147-7026](https://orcid.org/0000-0003-1147-7026)
-
-[My Leetcode: nicoalbo0](https://leetcode.com/u/nicoalbo/)
-
 ---
 
 ## Selected projects
