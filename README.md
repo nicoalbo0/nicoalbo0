@@ -10,7 +10,8 @@ The thread that connects most of what I build is *epistemic honesty in machine l
 - **Generative AI in production.** End-to-end LLM and RAG pipelines, agentic architectures, and responsible-AI practice aligned with the European Union Artificial Intelligence Act.
 - **Dynamical-systems methods for sequence models.** State-space and attractor-geometry perspectives on modern architectures, carried over from my reservoir-computing work.
 
-[ORCID 0000-0003-1147-7026](https://orcid.org/0000-0003-1147-7026)
+[My ORCID: 0000-0003-1147-7026](https://orcid.org/0000-0003-1147-7026)
+[My Leetcode: nicoalbo0](https://leetcode.com/u/nicoalbo/)
 
 ---
 
