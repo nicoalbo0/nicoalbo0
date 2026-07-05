@@ -1,4 +1,4 @@
-## Hi there, I'm Nicola 👋
+## Hi there, I'm Nicola 👋🏻
 
 I am a physicist (and many other things) based in Rome. I hold a Ph.D. in Physics, specifically centered in reservoir computing and the modelling of complex spatio-temporal systems: echo state networks, computational neuroscience, whole-brain mean-field models, and climate forecasting. I now work at the intersection of that dynamical-systems background and applied machine learning, with a particular focus on generative AI, retrieval-augmented systems, and the question of whether the explanations we produce for large language models can actually be trusted.
 
