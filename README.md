@@ -23,11 +23,13 @@ I developed a Reservoir-Computing (RC) digital twin of macaque dorsal premotor c
 
 
 **[cross-scale-reservoir-computing](https://github.com/nicoalbo0/cross-scale-reservoir-computing)** (Julia).
-`CrossScaleRC`, a package for single- and multi-layer echo state networks with spatial blocking, for forecasting high-dimensional spatio-temporal systems such as the Kuramoto–Sivashinsky equation and sea surface temperature fields. Includes deep ESN and next-generation RC baselines and a full multi-resolution data pipeline. This is the code behind the peer-reviewed paper below.
+
+I co-developed with @[Gabriele](https://github.com/gdianto) a julia package for single- and multi-layer echo state networks with spatial blocking, for forecasting high-dimensional spatio-temporal systems such as the Kuramoto–Sivashinsky equation and sea surface temperature fields. Repo includes deep ESN and next-generation RC baselines and a full multi-resolution data pipeline. This is the code behind the peer-reviewed paper below.
 > *Cross-scale reservoir computing for large spatio-temporal forecasting and modeling.* **Neurocomputing** (2026). [doi:10.1016/j.neucom.2026.133849](https://doi.org/10.1016/j.neucom.2026.133849)
 
 
 **[operator-variance](https://github.com/nicoalbo0/operator-variance)** (Python). 
+
 A research library that measures how much perturbation-based faithfulness scores (comprehensiveness, sufficiency, area under the deletion curve) depend on which perturbation operator you use: deletion, masking, neutral replacement, padding, or counterfactual. It reports cross-operator variance and Kendall-τ ranking disagreement, so the operator dependence of a faithfulness score becomes explicit and auditable instead of hidden behind a single number. It diagnoses instability, not the "correct" operator. Ships with five attributors (integrated gradients, LIME, gradient × input, attention rollout, occlusion), a reproducible benchmark runner that pins model and tokenizer revisions, and an offline, deterministic test suite.
 
 ### Developer and agentic tooling
