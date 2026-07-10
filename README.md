@@ -17,7 +17,7 @@ I am a physicist (and many other things) based in Rome. I hold a Ph.D. in Physic
 
 I developed a Reservoir-Computing (RC) digital twin of macaque dorsal premotor cortex, inferred directly from multi-unit recordings during a stop-signal task. The autonomous model reproduces trial-level neural dynamics and enables virtual experiments linking pre-Go cortical state to reaction-time variability, movement inhibition, and stop-signal reaction time. Our results establish a mechanistic link between latent cortical dynamics and flexible behavioral control, demonstrating how autonomous neural network inference can uncover circuit-level computations.
 > *In search for the invisible: motor inhibition in monkey premotorcortex and its RNN replicas.* **biorXiv** (2025).
-[https://doi.org/10.1101/2025.11.24.690225](https://doi.org/10.1101/2025.11.24.690225)
+[doi.org/10.1101/2025.11.24.690225](https://doi.org/10.1101/2025.11.24.690225)
 
 
 **[cross-scale-reservoir-computing](https://github.com/nicoalbo0/cross-scale-reservoir-computing)** (Julia).
