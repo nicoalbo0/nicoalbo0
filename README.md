@@ -2,13 +2,11 @@
 
 I am a physicist (and many other things) based in Rome. I hold a Ph.D. in Physics, specifically centered in reservoir computing and the modelling of complex spatio-temporal systems: echo state networks, computational neuroscience, whole-brain mean-field models, and climate forecasting. I now work at the intersection of that dynamical-systems background and applied machine learning, with a particular focus on generative AI, retrieval-augmented systems, and the question of whether the explanations we produce for large language models can actually be trusted.
 
-The thread that connects most of what I build is *epistemic honesty in machine learning systems* — measuring what a method really tells us rather than what we hope it tells us, and refusing to let a confident-looking number stand in for evidence it does not support.
-
 ### Current focus
 
 - **Explainable AI for large language models.** Faithfulness evaluation of feature attributions, with an emphasis on the identifiability problems that arise when perturbation-based explainers and perturbation-based evaluators are confounded by construction.
-- **Generative AI in production.** End-to-end LLM and RAG pipelines, agentic architectures, and responsible-AI practice aligned with the European Union Artificial Intelligence Act.
 - **Dynamical-systems methods for sequence models.** State-space and attractor-geometry perspectives on modern architectures, carried over from my reservoir-computing work.
+  
 ---
 
 ## Selected projects
